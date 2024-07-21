@@ -174,10 +174,11 @@ More like runner by really-early-mornings, and then engineer after that.
 
 ## GitHub Stats
 
-<!-- This section shows "Github Stats" -->
-<!-- 
-<a href="https://github.com/jigarshah088/jigarshah088">
-  <img align="center" src="https://github-readme-stats-blond-theta-24.vercel.app/api?username=jigarshah088&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=f3f7fa&text_color=000000&title_color=012e95&icon_color=012e95&border_color=012e95&card_width=400"/> -->
+![Jigarshah088's github stats](https://github-readme-stats.vercel.app/api?username=jigarshah088&show_icons=true)
+
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=jigarshah088&theme=blue-green)
+
 
 
 <!-- This section shows "Most Used Languages" -->

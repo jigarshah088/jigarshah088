@@ -172,25 +172,25 @@ More like runner by really-early-mornings, and then engineer after that.
 
 
 
+
 ## GitHub Stats
 
-
-
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=jigarshah088&theme=blue-green)
-
+<!-- This section shows "Github Stats" -->
+<!-- 
+<a href="https://github.com/jigarshah088/jigarshah088">
+  <img align="center" src="https://github-readme-stats-blond-theta-24.vercel.app/api?username=jigarshah088&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=f3f7fa&text_color=000000&title_color=012e95&icon_color=012e95&border_color=012e95&card_width=400"/> -->
 
 
 <!-- This section shows "Most Used Languages" -->
-![Jigarshah088's github stats]()
-<!-- <a href="[https://github.com/jigarshah088/jigarshah088](https://github-readme-stats.vercel.app/api?username=jigarshah088&show_icons=true)">
-  <img align="center" 
-  src="(https://github-readme-stats.vercel.app/api?username=jigarshah088&show_icons=true&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=f3f7fa&text_color=000000&title_color=012e95&icon_color=012e95&border_color=012e95&card_width=435"/> 
-  -->
+
+<!-- <a href="https://github.com/jigarshah088/jigarshah088">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigarshah088&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=f3f7fa&text_color=000000&title_color=012e95&icon_color=012e95&border_color=012e95&card_width=435"/> -->
 
 
 | <a href="https://github.com/jigarshah088/jigarshah088"><img align="center" src="https://github-readme-stats-blond-theta-24.vercel.app/api?username=jigarshah088&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=f3f7fa&text_color=000000&title_color=012e95&icon_color=012e95&border_color=012e95" /></a> | <a href="https://github.com/jigarshah088/jigarshah088"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigarshah088&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=f3f7fa&text_color=000000&title_color=012e95&icon_color=012e95&border_color=012e95" /></a> |
 | ------------- | ------------- |
+
+## Recent Activity 
 
 # Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)

@@ -178,7 +178,7 @@ More like runner by really-early-mornings, and then engineer after that.
 <!-- This section shows "Github Stats" -->
 <!-- 
 <a href="https://github.com/jigarshah088/jigarshah088">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true"/> -->
+  <img align="center" src=" https://github-readme-stats.vercel.app/api?username=jigarshah088&show_icons=true "/> -->
 
 
 <!-- This section shows "Most Used Languages" -->

@@ -1,7 +1,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&type=soft&color=auto&height=300&section=header&fontSize=90) -->
 
-# Hi there, I'm Eden <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# Hi there, I'm Jigar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 
 <p align="left">
@@ -20,16 +20,16 @@
 <img align=top src="./Images/keyboard.gif" alt="drawing" width="100%"/>
 
 
-## Engineer by day, runner by night 
+## Engineer by day, dreamer by night 
 
 More like runner by really-early-mornings, and then engineer after that. 
 
-- I'm currently working as a DevOps Engineer in Singapore 
+- I'm currently working as a DevOps Engineer in India 
 - I'm currently learning everything (no, just kidding)
 - I like building stuff, breaking them, and then fixing them (well some).
 - I always looks to automate what I can.
 - Fun fact: I play the Kalimba to relax (go ahead, search it!)
-- If I'm not at my desk, I'm probably running outside.
+- If I'm not at my desk, I'm probably dreaming in my bed.
 - I also like solving jigsaw puzzles and reading books.
 
 ## Tech Stack 
@@ -167,11 +167,8 @@ More like runner by really-early-mornings, and then engineer after that.
 
 <!-- Social Media -->
 
-<!-- [website]: https://chizwiz.io -->
-[twitter]: https://twitter.com/eden_noel08
-[instagram]: https://instagram.com/eden_noel08
-[linkedin]: https://linkedin.com/in/jigarshah088
-[skype]: https://join.skype.com/invite/bXEIo1ARlzMV
+[linkedin]: https://linkedin.com/in/jigar-s-9a923322
+
 
 
 
@@ -192,19 +189,12 @@ More like runner by really-early-mornings, and then engineer after that.
 | <a href="https://github.com/jigarshah088/jigarshah088"><img align="center" src="https://github-readme-stats-blond-theta-24.vercel.app/api?username=jigarshah088&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=f3f7fa&text_color=000000&title_color=012e95&icon_color=012e95&border_color=012e95" /></a> | <a href="https://github.com/jigarshah088/jigarshah088"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigarshah088&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=f3f7fa&text_color=000000&title_color=012e95&icon_color=012e95&border_color=012e95" /></a> |
 | ------------- | ------------- |
 
-## Recent Activity 
+# Random Joke
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-This is a list of my most recent activity on GitHub.
+<p align="center">
 
-<!--START_SECTION:activity-->
+<img src = "Img/snap.jpg">
 
-
-
-
-<!-- ## Latest Posts  -->
-
-
-<!--
-**jigarshah088/jigarshah088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+</p>
